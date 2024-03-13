@@ -1,9 +1,10 @@
 ## Hi there 👋 It's me Gokulraj L
-Sophomore @ Chennai Institute of Technology
+   Sophomore @ Chennai Institute of Technology
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GOKULRAJ-L&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" align="right" alt="languages graph"  />
-
+  
+- 🌱 FullStack Web-Developer(MERN)
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Web 3.0
 - 🤔 I’m looking for help with Placements in FAANG
