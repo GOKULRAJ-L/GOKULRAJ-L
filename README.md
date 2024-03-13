@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Gokulraj L
 Sophomore @ Chennai Institute of Technology
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
+<img align="right" width="370" height="290" src="https://pin.it/2w5663BgS">                                               
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Web 3.0
 - 🤔 I’m looking for help with Placements in FAANG
