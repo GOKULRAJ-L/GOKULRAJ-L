@@ -1,5 +1,5 @@
-## Hi there 👋 It's me Gokulraj L
-   Sophomore @ Chennai Institute of Technology
+## Hi Guys It's me Gokulraj L
+   Pre-Final-Year Student @ Chennai Institute of Technology
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GOKULRAJ-L&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" align="right" alt="languages graph"  />
@@ -16,10 +16,10 @@
    
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img width="50" height="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/express-js.png" alt="express-js"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>  <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/express-js.png" alt="express-js"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/><img width="50" height="50" src="https://img.icons8.com/color/48/docker.png" alt="docker"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/><img width="50" height="50" src="https://img.icons8.com/color/48/docker.png" alt="docker"/> <img width="50" height="50" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
 
 ### I work in 
 <img width="50" height="50" src="https://img.icons8.com/color/48/microsoft.png" alt="microsoft"/> <img width="50" height="50" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-Linux-logos-and-brands-those-icons-flat-those-icons.png" alt="external-Linux-logos-and-brands-those-icons-flat-those-icons"/>
